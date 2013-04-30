@@ -6,3 +6,5 @@ plt.plot(a, a**2)
 plt.plot(a, a**3)
 plt.plot(a, a**4)
 plt.savefig("a_figure.png")
+
+c = a + 1/a**2 + 0.5/a**3
