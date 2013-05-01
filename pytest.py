@@ -1,4 +1,6 @@
-'''I just edited this on fancy'''
+'''I just edited this on fancy.
+
+Let's add another thing!'''
 import numpy as np
 import matplotlib.pyplot as plt
 
